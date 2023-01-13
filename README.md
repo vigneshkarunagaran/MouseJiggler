@@ -1,5 +1,10 @@
 # MouseJiggler
-MouseJiggler is a python based Mouse movement and Keyboard key stroke simulator that keeps you system active until you terminate the execution
+
+In this age we all have worked from home.
+During a light day, if you have been tired of your system going to sleep and you have moved your mouse around just to keep it active, then this tool is for you.
+
+This simple python based tool will simulate mouse and keyboard key stroke for you at given interval and keeps your system awake.
+
 ---
 
 # Libraries:
