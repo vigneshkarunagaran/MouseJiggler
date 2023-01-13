@@ -20,8 +20,8 @@ pip3 install -r libs.txt
 ---
 
 # Execution
-On execution launches an Untitled - Notepad.
-Simulates mouse movement within the Notepad window.
-Sends Key Stroks to the Notepad
+1.  On execution launches an Untitled - Notepad.
+2.  Simulates mouse movement within the Notepad window.
+3.  Sends Key Stroks to the Notepad
 
 Note: Avoid making any other window as active after script execution.
